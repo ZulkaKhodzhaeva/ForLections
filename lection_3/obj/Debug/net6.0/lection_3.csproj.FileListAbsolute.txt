@@ -1,0 +1,15 @@
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\obj\Debug\net6.0\lection_3.csproj.AssemblyReference.cache
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\obj\Debug\net6.0\lection_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\obj\Debug\net6.0\lection_3.AssemblyInfoInputs.cache
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\obj\Debug\net6.0\lection_3.AssemblyInfo.cs
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\obj\Debug\net6.0\lection_3.csproj.CoreCompileInputs.cache
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\bin\Debug\net6.0\lection_3.exe
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\bin\Debug\net6.0\lection_3.deps.json
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\bin\Debug\net6.0\lection_3.runtimeconfig.json
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\bin\Debug\net6.0\lection_3.dll
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\bin\Debug\net6.0\lection_3.pdb
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\obj\Debug\net6.0\lection_3.dll
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\obj\Debug\net6.0\refint\lection_3.dll
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\obj\Debug\net6.0\lection_3.pdb
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\obj\Debug\net6.0\lection_3.genruntimeconfig.cache
+C:\Users\рог\Desktop\Block_3(C#)\ForLections\lection_3\obj\Debug\net6.0\ref\lection_3.dll
